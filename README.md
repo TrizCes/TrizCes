@@ -26,10 +26,12 @@ Here are some ideas to get you started:
   <a href="mailto:biaceschini@gmail.com"><img height="40em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
+<!--
 <div>
   <a href="https://github.com/TrizCes"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=TrizCes&show_icons=true&theme=vision-friendly-dark&inclue_all_commit=true" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=TrizCes&layout-default&langs_count=3&theme=vision-friendly-dark" />
 </div>
+-->
 
 
