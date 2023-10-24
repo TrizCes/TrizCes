@@ -1,3 +1,20 @@
+# ✨ Bem vindo(a) ao meu perfil ✨
+
+Meu nome é Beatriz, e sou uma entusiasta da organização, criatividade e aprendizado rápido. Me dedico inteiramente a cada projeto em que participo.
+
+#### O Que Posso Oferecer:
+- Organização - Minha paixão por manter tudo em ordem e bem estruturado contribui para projetos mais eficientes.
+
+- Criatividade - Busco constantemente novas soluções e ideias originais para desafios complexos.
+
+- Aprendizado Rápido - Estou sempre ansiosa para aprender coisas novas e dominar novas tecnologias.
+
+#### E mais....
+- ✨ Eu sou uma desenvolvedora de software, me especializando em desenvolvimento full-stack.
+- 👯 Estou aberta a colaborar em trabalhos voluntários como desenvolvedor, a fim de contribuir com ONGs.
+- 👩‍💻 Sobre mim: Estou passando por uma transição de carreira, tendo trabalhado anteriormente em design de moda.
+- 🐱 Um fato sobre mim: Eu tenho um gatinha chamado Nice ~ "Nice" é um nome inspirado na deusa grega da vitória (em inglês, Nike).
+
 # Welcome to my profile! 👋
 
 <!--
