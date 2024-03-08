@@ -11,9 +11,9 @@ Meu nome é Beatriz, e sou uma entusiasta da organização, criatividade e apren
 
 #### E mais....
 - ✨ Eu sou uma desenvolvedora de software, me especializando em desenvolvimento full-stack.
-- 👯 Estou aberta a colaborar em trabalhos voluntários como desenvolvedor, a fim de contribuir com ONGs.
+- 👯 Estou aberta a colaborar em trabalhos voluntários como desenvolvedora, a fim de contribuir com ONGs.
 - 👩‍💻 Sobre mim: Estou passando por uma transição de carreira, tendo trabalhado anteriormente em design de moda.
-- 🐱 Um fato sobre mim: Eu tenho um gatinha chamado Nice ~ "Nice" é um nome inspirado na deusa grega da vitória (em inglês, Nike).
+- 🐱 Um fato sobre mim: Eu tenho uma gatinha chamado Nice ~ "Nice" é um nome inspirado na deusa grega da vitória (em inglês, Nike).
 
 # Welcome to my profile! 👋
 
