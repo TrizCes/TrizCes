@@ -11,9 +11,12 @@ Meu nome é Beatriz, e sou uma entusiasta da organização, criatividade e apren
 
 #### E mais....
 - ✨ Eu sou uma desenvolvedora de software, me especializando em desenvolvimento full-stack.
+- 🔭 Estou cursando engenharia de software. 
+- 🌱 Trabalho como analista de sistemas utilizando LINC - AB Suite da Unisys.
 - 👯 Estou aberta a colaborar em trabalhos voluntários como desenvolvedora, a fim de contribuir com ONGs.
 - 👩‍💻 Sobre mim: Estou passando por uma transição de carreira, tendo trabalhado anteriormente em design de moda.
 - 🐱 Um fato sobre mim: Eu tenho uma gatinha chamado Nice ~ "Nice" é um nome inspirado na deusa grega da vitória (em inglês, Nike).
+- ⚙️ Sou Rotaractiana, do Distrito 4652. 
 
 # Welcome to my profile! 👋
 
@@ -33,10 +36,14 @@ Here are some ideas to get you started:
 -->
 
 - ✨ I am a software development, specializing in full-stack development.
+- 🔭 I’m studying software engineering.
+- 🌱 I work as a systems analyst using LINC - AB Suite by Unisys.
 - 👯 I’m open to collaborate on volunteer work as a developer, in order to contribute to NGOs.
 - 👩‍💻 About me: I am undergoing a career transition, previously working in fashion design.
 - 🐱 A fact about me: I have a little cat named Nice ~ "Nice" is a name inspired by the Greek goddess of victory (In English, Nike).
+- ⚙️  I’m a Rotaract member from District 4652.
 
+  
 ### Tecnologias / Technologies:
 
 <!--`JavaScript` || `TypeScript` || `NodeJS` || `CSharp` ||
